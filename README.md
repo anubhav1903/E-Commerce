@@ -13,9 +13,9 @@ Login Page - http://127.0.0.1:8000/accounts/login/
 
 ### Method 
 
-Used Get & Post Api to fetch data from User & client
+Used Get & Post Api to fetch data from User & client.........
 User-
-For User details Like Login , Registration & Address 
+For User details Like Login , Registration & Address......... 
 Client-
 For any changes on website like Adding , Updating & Deleting Products & User Details
  
